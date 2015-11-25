@@ -1,2 +1,4 @@
 What we've learned today:
 git init
+git add 
+git commit -m
