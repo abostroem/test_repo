@@ -1,4 +1,6 @@
 What we've learned today:
 git init
 git add (we can skip this is we want to)
+git add (this adds to the staging area) 
 git commit -m
+git commit (no m)
