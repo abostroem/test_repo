@@ -1,4 +1,4 @@
 What we've learned today:
 git init
-git add 
+git add (we can skip this is we want to)
 git commit -m
